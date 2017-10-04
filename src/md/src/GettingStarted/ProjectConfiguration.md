@@ -1,13 +1,13 @@
 ## Project configuration
 
-Projects in ReportPortal have separate spaces. 
+Projects in ReportPortal have separate spaces.
 To see the list of available projects and open a project, click the drop-down list 
 in the top left corner of the page.
 
 ReportPortal supports customization of the default settings.
 
 Permission: 
-Usesr with the Administrator role can edit project settings on the project "Settings" page in Management Board 
+Usesr with the Administrator role can edit project settings on the project "Settings" page in Management Board
 and in the Project space. Users with the PROJECT_MANAGER or LEAD roles can edit the settings on the project space only.
 
 ### Project settings
@@ -99,9 +99,9 @@ Users with a MEMBER or CUSTOMER project role will not have the capability to edi
 
 **BUG TRACKING SYSTEM**
 
-The "Bug Tracking System" tab can allow the project to connect to a bug tracking system such as JIRA or RALLY. 
+The "Bug Tracking System" tab can allow the project to connect to a bug tracking system such as JIRA or RALLY.
 
-For more information on this topic, please refer to [Integration with bug tracking systems](#documentation/Integration-with-bug).
+For more information on this topic, please refer to [Integration with bug tracking systems](/docs/Integration-with-bug).
 
 **CREATE CUSTOM DEFECT TYPES**
 
@@ -144,7 +144,7 @@ To create custom defect types, perform the following steps:
 Add more custom defects, if you need. The system allows to add up to ten subtypes of each default defect type.
 
 Now you can investigate found defects as default Product Bug/Automation Bug/System Issue/No Defect or custom defects. All of them will be available to select on Defect Type editor.
-For more information refer to the [Investigation of failure](#documentation/Work-with-reports>Investigation-of-failure) topic. 
+For more information refer to the [Investigation of failure](/docs/Work-with-reports>Investigation-of-failure) topic.
 
 Note: Default defects cannot be modified and or deleted from the system. Custom defect types can be deleted at any time.
 
@@ -247,7 +247,7 @@ To edit project role, perform the following steps:
 **UNASSIGN USER FROM PROJECT**
 
 
-Depending on project needs the assignment could be removed. 
+Depending on project needs the assignment could be removed.
 To unassign he assignment for user on the project, perform the following steps:
 
 1. Login into the ReportPortal as a user with PROJECT_MANAGER or LEAD project role.
